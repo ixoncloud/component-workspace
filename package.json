@@ -9,6 +9,7 @@
     "generate": "node node_modules/@ixon-cdk/runner generate",
     "login": "node node_modules/@ixon-cdk/runner login",
     "logout": "node node_modules/@ixon-cdk/runner logout",
+    "publish": "node node_modules/@ixon-cdk/runner publish",
     "simulate": "node node_modules/@ixon-cdk/runner simulate"
   },
   "author": "",
