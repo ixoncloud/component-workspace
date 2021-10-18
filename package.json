@@ -1,0 +1,22 @@
+{
+  "name": "component-workspace",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node node_modules/@ixon-cdk/runner build",
+    "deploy": "node node_modules/@ixon-cdk/runner deploy",
+    "generate": "node node_modules/@ixon-cdk/runner generate",
+    "login": "node node_modules/@ixon-cdk/runner login",
+    "logout": "node node_modules/@ixon-cdk/runner logout",
+    "simulate": "node node_modules/@ixon-cdk/runner simulate"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ixon-cdk/core": "^1.0.0-alpha.0",
+    "@ixon-cdk/runner": "^1.0.0-alpha.0",
+    "@ixon-cdk/simulator": "^1.0.0-alpha.0",
+    "@ixon-cdk/templates": "^1.0.0-alpha.0"
+  }
+}
