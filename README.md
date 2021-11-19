@@ -56,3 +56,13 @@ npm run deploy my-component
 ```
 
 ...You will be prompted for a company ID and page-component-template ID and whether you want to remember these settings to speed up the process for a next deployment.
+
+If all goes well, the component gets uploaded to the platform and you'll receive a preview link. With this link you can test the component in production.
+
+The final step is to publish the deployed so that the component version becomes available to all company users...
+
+```sh
+npm run publish my-component
+```
+
+...You will be prompted to select a version out of a list of all unpublished versions up to the currently published version. Select the version you want to publish. If all goes well, it will now be avialable for all company users to use.
