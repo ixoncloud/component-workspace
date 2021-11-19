@@ -65,4 +65,4 @@ The final step is to publish the deployed so that the component version becomes 
 npm run publish my-component
 ```
 
-...You will be prompted to select a version out of a list of all unpublished versions up to the currently published version. Select the version you want to publish. If all goes well, it will now be avialable for all company users to use.
+...You will be prompted to select a version out of a list of all unpublished versions up to the currently published version. Select the version you want to publish. If all goes well, it will now be available for all company users to use.
