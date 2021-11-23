@@ -9,7 +9,7 @@ npx degit ixoncloud/component-workspace my-project
 cd my-project
 ```
 
-Note that you will need to have Node.js installed.
+Note that you will need to have Node.js and Git installed.
 
 ## Getting started
 
