@@ -59,7 +59,7 @@ npm run deploy my-component
 
 If all goes well, the component gets uploaded to the platform and you'll receive a preview link. With this link you can test the component in production.
 
-The final step is to publish the deployed so that the component version becomes available to all company users...
+The final step is to publish the deployed component so that it becomes available to all company users...
 
 ```sh
 npm run publish my-component
