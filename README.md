@@ -1,6 +1,6 @@
-# IXON Component Workspace
+# IXON Custom Component Workspace
 
-This is a template for a custom components workspace.
+This is a template for a custom component workspace.
 
 To create a new project based on this template using degit:
 
