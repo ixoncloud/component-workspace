@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@ixon-cdk/core": "^1.0.0-alpha.8",
-    "@ixon-cdk/runner": "^1.0.0-alpha.8",
-    "@ixon-cdk/simulator": "^1.0.0-alpha.8",
-    "@ixon-cdk/templates": "^1.0.0-alpha.8"
+    "@ixon-cdk/core": "^1.0.0-alpha.12",
+    "@ixon-cdk/runner": "^1.0.0-alpha.12",
+    "@ixon-cdk/simulator": "^1.0.0-alpha.12",
+    "@ixon-cdk/templates": "^1.0.0-alpha.12"
   }
 }
