@@ -49,6 +49,8 @@ When your component is ready to be used in action, it can be deployed to the IXO
 npm run login
 ```
 
+**Note:** If you are behind a corporate proxy, this request may fail. You can use the environment variable `https_proxy` to configure the proxy the CDK should use, e.g. `export https_proxy=https://proxy-server:4432`. Contact your network administrator for the correct address.
+
 Now that you're logged in, you can run the following command to deploy the component...
 
 ```sh
