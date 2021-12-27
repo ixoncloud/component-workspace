@@ -1,9 +1,10 @@
 # IXON Custom Component Workspace
 
-This is a template for a custom component workspace.
+Welcome to your workspace for developing custom components for the IXON Cloud. Note that creating custom components requires you to be able to write JavaScript or Typescript code, and that you are familiar with the [Node.js](https://nodejs.org/) ecosystem. Experience with a web framework such as [Vue](https://vuejs.org/) or [Svelte](https://svelte.dev/) will come in handy as well.
+
+This workspace will contain the custom components that you've developed. You can check this workspace, with your custom components, into your preferred versioning system. To do so, you can download this repository as a ZIP file, or use `degit`, as shown below. You don't need to fork this repository, as the actual Software Development Kit (SDK) will be installed into your `node_modules`, and you can install updates using `npm` as you normally do. You can access the SDK via the `npm run` scripts, as shown later in this guide.
 
 To create a new project based on this template using degit:
-
 ```sh
 npx degit ixoncloud/component-workspace my-project
 cd my-project
