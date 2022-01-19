@@ -38,7 +38,7 @@ npm run simulate my-component
 
 ## Documentation
 
-To check out docs and examples on how to develop a custom component, visit [Custom Component Development Docs](https://cdn.ixon.cloud/custom-widgets/).
+To check out docs and examples on how to develop a custom component, visit [Custom Component Development Docs](https://developer.ixon.cloud/docs/custom-components).
 
 The [@ixon-cdk/runner](https://www.npmjs.com/package/@ixon-cdk/runner) page has a complete overview of all commands that can be run in a component workspace project.
 
