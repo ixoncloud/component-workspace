@@ -1,5 +1,5 @@
 {
-  "name": "component-workspace",
+  "name": "ixon-custom-component-workspace",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@ixon-cdk/core": "^1.0.0",
-    "@ixon-cdk/runner": "^1.0.0",
-    "@ixon-cdk/simulator": "^1.0.0",
-    "@ixon-cdk/templates": "^1.0.0"
+    "@ixon-cdk/core": "^1.1.0",
+    "@ixon-cdk/runner": "^1.1.0",
+    "@ixon-cdk/simulator": "^1.1.0",
+    "@ixon-cdk/templates": "^1.1.0"
   }
 }
