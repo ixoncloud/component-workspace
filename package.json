@@ -4,20 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node node_modules/@ixon-cdk/runner build",
-    "deploy": "node node_modules/@ixon-cdk/runner deploy",
-    "generate": "node node_modules/@ixon-cdk/runner generate",
-    "login": "node node_modules/@ixon-cdk/runner login",
-    "logout": "node node_modules/@ixon-cdk/runner logout",
-    "publish": "node node_modules/@ixon-cdk/runner publish",
-    "simulate": "node node_modules/@ixon-cdk/runner simulate"
+    "build": "cdk build",
+    "deploy": "cdk deploy",
+    "generate": "cdk generate",
+    "login": "cdk login",
+    "logout": "cdk logout",
+    "publish": "cdk publish",
+    "simulate": "cdk simulate"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@ixon-cdk/core": "^1.1.0",
-    "@ixon-cdk/runner": "^1.1.0",
-    "@ixon-cdk/simulator": "^1.1.0",
-    "@ixon-cdk/templates": "^1.1.0"
+    "@ixon-cdk/core": "^1.2.0",
+    "@ixon-cdk/runner": "^1.2.0",
+    "@ixon-cdk/simulator": "^1.2.0",
+    "@ixon-cdk/templates": "^1.2.0"
   }
 }
