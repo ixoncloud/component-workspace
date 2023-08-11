@@ -34,7 +34,7 @@ To actually view and test your component, run the following command...
 npx cdk simulate my-component
 ```
 
-...this opens the simulator app in a browser and builds your component in watch-mode, which means that any changes to the component source files will trigger a rebuild and will auto-reload the simulator.
+...this opens the simulator app in a browser and builds your component in watch-mode, which means that any changes to the component source files will trigger a rebuild and will auto-reload the simulator. It is also possible to test your component with platform data by configuring this in the simulator settings.
 
 ## Documentation
 
