@@ -1,8 +1,8 @@
 # IXON Custom Component Workspace
 
-Welcome to your workspace for developing custom components for the IXON Cloud. Note that creating custom components requires you to be able to write JavaScript or Typescript code, and that you are familiar with the [Node.js](https://nodejs.org/) ecosystem. Experience with a web framework such as [Vue](https://vuejs.org/) or [Svelte](https://svelte.dev/) will come in handy as well.
+Welcome to your workspace for developing UI Components for the IXON Cloud. Note that creating UI Components requires you to be able to write JavaScript or Typescript code, and that you are familiar with the [Node.js](https://nodejs.org/) ecosystem. Experience with a web framework such as [Vue](https://vuejs.org/) or [Svelte](https://svelte.dev/) will come in handy as well.
 
-This workspace will contain the custom components that you've developed. You can check this workspace, with your custom components, into your preferred versioning system. To do so, you can download this repository as a ZIP file, or use `degit`, as shown below. You don't need to fork this repository, as the actual Software Development Kit (SDK) will be installed into your `node_modules`, and you can install updates using `npm` as you normally do. You can access the SDK via the `npx cdk` scripts, as shown later in this guide.
+This workspace will contain the UI Components that you've developed. You can check this workspace, with your UI Components, into your preferred versioning system. To do so, you can download this repository as a ZIP file, or use `degit`, as shown below. You don't need to fork this repository, as the actual Software Development Kit (SDK) will be installed into your `node_modules`, and you can install updates using `npm` as you normally do. You can access the SDK via the `npx cdk` scripts, as shown later in this guide.
 
 To create a new project based on this template using degit:
 ```sh
@@ -38,14 +38,14 @@ npx cdk simulate my-component
 
 ## Documentation
 
-To check out docs and examples on how to develop a custom component, visit [Custom Component Development Docs](https://developer.ixon.cloud/docs/custom-components).
+To check out docs and examples on how to develop a UI Componentt, visit [UI Component Development Docs](https://developer.ixon.cloud/docs/custom-components).
 
 The [@ixon-cdk/runner](https://www.npmjs.com/package/@ixon-cdk/runner) page has a complete overview of all commands that can be run in a component workspace project.
 
 ## Deploying to the IXON Cloud
 
 > The deployment requires a **company ID** and a **page-component-template ID**. Please refer to the documentation on our support website how to obtain these.  
-> Custom Components > [Process steps to request and upload a custom component](https://support.ixon.cloud/hc/en-us/articles/4408441416722#h_01FQXKK6K24W0932DS6W0Q06B8) > Step 4. and 5.
+> UI Components > [Process steps to request and upload a UI Component](https://support.ixon.cloud/hc/en-us/articles/4408441416722#h_01FQXKK6K24W0932DS6W0Q06B8) > Step 4. and 5.
 
 When your component is ready to be used in action, it can be deployed to the IXON Cloud. To do that, you must first log in with your IXON user account.
 
