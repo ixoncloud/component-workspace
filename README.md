@@ -38,7 +38,7 @@ npx cdk simulate my-component
 
 ## Documentation
 
-To check out docs and examples on how to develop a UI Componentt, visit [UI Component Development Docs](https://developer.ixon.cloud/docs/custom-components).
+To check out docs and examples on how to develop a UI Component, visit [UI Component Development Docs](https://developer.ixon.cloud/docs/custom-components).
 
 The [@ixon-cdk/runner](https://www.npmjs.com/package/@ixon-cdk/runner) page has a complete overview of all commands that can be run in a component workspace project.
 
