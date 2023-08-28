@@ -38,14 +38,14 @@ npx cdk simulate my-component
 
 ## Documentation
 
-To check out docs and examples on how to develop a UI Componentt, visit [UI Component Development Docs](https://developer.ixon.cloud/docs/custom-components).
+To check out docs and examples on how to develop a UI Component, visit [UI Component Development Docs](https://developer.ixon.cloud/docs/custom-components).
 
 The [@ixon-cdk/runner](https://www.npmjs.com/package/@ixon-cdk/runner) page has a complete overview of all commands that can be run in a component workspace project.
 
 ## Deploying to the IXON Cloud
 
-> The deployment requires a **company ID** and a **page-component-template ID**. Please refer to the documentation on our support website how to obtain these.  
-> UI Components > [Process steps to request and upload a UI Component](https://support.ixon.cloud/hc/en-us/articles/4408441416722#h_01FQXKK6K24W0932DS6W0Q06B8) > Step 4. and 5.
+> The deployment requires a **company ID** and a **page-component-template ID**. Please refer to the Getting Started on our developer website how to obtain these.  
+> UI Components > [Getting Started](https://developer.ixon.cloud/docs/getting-started-1) > Step 4. and 5.
 
 When your component is ready to be used in action, it can be deployed to the IXON Cloud. To do that, you must first log in with your IXON user account.
 
