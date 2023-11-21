@@ -44,7 +44,7 @@ The [@ixon-cdk/runner](https://www.npmjs.com/package/@ixon-cdk/runner) page has 
 
 ## Deployment to IXON Cloud
 
-> The deployment requires a **company ID** and a **page-component-template ID**. Authorisation is also required on the endpoints used. Please refer to the [Getting Started](https://developer.ixon.cloud/docs/getting-started-1) on our developer website how to obtain these (step 4., 5., and 6.)
+> The deployment requires a **company ID** and a **page-component-template ID**. Please refer to the [Getting Started](https://developer.ixon.cloud/docs/getting-started-1) on our developer website how to obtain these (step 4. and 5.)
 
 When your component is ready to be used in action, it can be deployed to the IXON Cloud. To do that, you must first log in with your IXON user account.
 
