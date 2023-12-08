@@ -13,7 +13,7 @@
     "simulate": "cdk simulate"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@ixon-cdk/core": "^1.3.0",
     "@ixon-cdk/runner": "^1.3.0",
