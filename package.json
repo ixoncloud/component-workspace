@@ -15,9 +15,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ixon-cdk/core": "^1.7.1",
-    "@ixon-cdk/runner": "^1.7.1",
-    "@ixon-cdk/simulator": "^1.7.1",
-    "@ixon-cdk/templates": "^1.7.1"
+    "@ixon-cdk/core": "^1.10.0",
+    "@ixon-cdk/runner": "^1.10.0",
+    "@ixon-cdk/simulator": "^1.10.0",
+    "@ixon-cdk/templates": "^1.10.0"
   }
 }
