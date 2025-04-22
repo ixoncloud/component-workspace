@@ -69,3 +69,7 @@ npx cdk publish my-component
 ```
 
 ...You will be prompted to select a version out of a list of all unpublished versions up to the currently published version. Select the version you want to publish. If all goes well, it will now be available for all company users to use.
+
+## Support
+
+For more information and support, please check our [developer website on developer.ixon.cloud](https://developer.ixon.cloud/).
